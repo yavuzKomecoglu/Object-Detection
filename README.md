@@ -2,6 +2,15 @@
 # Object Detection
 
 
+Presentation file on Convexional Neural Networks: Object Detection in the 12th week of [inzva's](https://inzva.com/) the [deepLearning.ai](https://www.deeplearning.ai/) Working Group
+:paperclip: [Download file](presentation.odp)
+
+
+### Darkflow Demo 🖥️
+Demo using pre-trained weight files with Darkflow
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/Object-Detection/blob/master/DLTR_YOLOv2-Darkflow.ipynb)
+
+
 ## YOLO
 ### Frameworks
 * [darknet framework](https://pjreddie.com/darknet/yolo/)
