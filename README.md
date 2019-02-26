@@ -26,7 +26,7 @@ Demo using pre-trained weight files with Darkflow
 
 * [(TR) How to build a custom object detector using YOLOv2? - Part 2](https://medium.com/deep-learning-turkiye/yolov2-ile-kendi-%C3%B6zel-ki%C5%9Fi-yada-nesnemizin-alg%C4%B1lanmas%C4%B1n%C4%B1-nas%C4%B1l-sa%C4%9Flar%C4%B1z-b%C3%B6l%C3%BCm-2-c717f5231e46)
 
-* [(TR) CS 230 - Derin Öğrenme - Nesne algılama](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks#object-detection)
+* [(TR) Stanford Cheatsheet - CS 230 - Deep Learning - Object Detection](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks#object-detection)
 
 ## TensorFlow Object Detection API
 * [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
