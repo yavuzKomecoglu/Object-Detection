@@ -8,7 +8,7 @@ Presentation file on Convexional Neural Networks: Object Detection in the 12th w
 
 ### Darkflow Demo 🖥️
 Demo using pre-trained weight files with Darkflow
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/Object-Detection/blob/master/DLTR_YOLOv2-Darkflow.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/Object-Detection/blob/master/YOLOv2-Darkflow.ipynb)
 
 
 ## YOLO
