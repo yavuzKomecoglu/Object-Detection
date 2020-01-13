@@ -45,5 +45,4 @@ Demo using pre-trained weight files with Darkflow
 
 ## My prediction results with YOLO
 ![YOLO_prediction1](/images/YOLO_prediction1.png)
-![YOLO_prediction2](/images/YOLO_prediction2.jpeg)
 ![YOLO_prediction3](/images/YOLO_prediction3.png)
