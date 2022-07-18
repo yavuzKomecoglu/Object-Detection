@@ -2,7 +2,7 @@
 # Object Detection
 
 
-Presentation file on Convexional Neural Networks: Object Detection in the 12th week of [inzva's](https://inzva.com/) the [deepLearning.ai](https://www.deeplearning.ai/) Working Group
+Presentation file on Convolutional Neural Networks: Object Detection in the 12th week of [inzva's](https://inzva.com/) the [deepLearning.ai](https://www.deeplearning.ai/) Working Group
 :paperclip: [Download file](presentation.odp)
 
 
